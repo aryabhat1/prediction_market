@@ -1,0 +1,9 @@
+contracts/
+EcomApp/
+main/
+migrations/
+node_modules/
+test/
+truffle-project/
+*.json
+
